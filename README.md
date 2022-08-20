@@ -15,6 +15,6 @@ This repository includes PyTorch implementation of the paper "Modeling Inter-Dep
 
 ## Acknowledgements
 
-* We build on top of [`ifl-tpp` source code](https://github.com/shchur/ifl-tpp) . Thanks to [Oleksandr Shchur](https://shchur.github.io/) for the awesome codebase.
+* We build on top of [`ifl-tpp` source code](https://github.com/shchur/ifl-tpp). [`dpp`](https://github.com/waghmaregovind/joint_tpp/tree/master/code/dpp) package is copied and modified to support joint modeling of time and mark. Thanks to [Oleksandr Shchur](https://shchur.github.io/) for the awesome codebase.
 
 * [![`tick` library](https://img.shields.io/badge/tick-0.7.0.1-green?style=plastic)](https://github.com/X-DataInitiative/tick) and [neuralTPPs](https://github.com/babylonhealth/neuralTPPs/blob/831ed1c203c93b4e408b83b1d457af19372d6267/tpp/processes/multi_class_dataset.py#L1) are used to generate synthetic Hawkes process data. 
