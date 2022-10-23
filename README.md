@@ -18,3 +18,23 @@ This repository includes PyTorch implementation of the paper "Modeling Inter-Dep
 * We build on top of [`ifl-tpp` source code](https://github.com/shchur/ifl-tpp). [`dpp`](https://github.com/waghmaregovind/joint_tpp/tree/master/code/dpp) package is copied and modified to support joint modeling of time and mark. Thanks to [Oleksandr Shchur](https://shchur.github.io/) for the awesome codebase.
 
 * [![`tick` library](https://img.shields.io/badge/tick-0.7.0.1-green?style=plastic)](https://github.com/X-DataInitiative/tick) and [neuralTPPs](https://github.com/babylonhealth/neuralTPPs/blob/831ed1c203c93b4e408b83b1d457af19372d6267/tpp/processes/multi_class_dataset.py#L1) are used to generate synthetic Hawkes process data. 
+
+## Citation
+```
+@inproceedings{10.1145/3511808.3557399,
+author = {Waghmare, Govind and Debnath, Ankur and Asthana, Siddhartha and Malhotra, Aakarsh},
+title = {Modeling Inter-Dependence Between Time and Mark in Multivariate Temporal Point Processes},
+year = {2022},
+isbn = {9781450392365},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3511808.3557399},
+doi = {10.1145/3511808.3557399},
+booktitle = {Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management},
+pages = {1986–1995},
+numpages = {10},
+keywords = {multivariate temporal point processes, probabilistic modeling},
+location = {Atlanta, GA, USA},
+series = {CIKM '22}
+}
+```
