@@ -1,5 +1,6 @@
 [![PyTorch 1.11.0](https://img.shields.io/badge/PyTorch-1.11.0-%23EE4C2C.svg?style=plastic&logo=PyTorch)](https://pypi.org/project/torch/1.11.0/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-2210.15294-orange.svg)](https://arxiv.org/abs/2210.15294)
 
 # Modeling Inter-Dependence Between Time and Mark in Multivariate Temporal Point Processes
 
